@@ -55,29 +55,39 @@ Clone to Local
 
 ![alt text](image-1.png)
 
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
 Maven Compile
 
+![alt text](image-5.png)
 
-
+![alt text](image-6.png)
 
 Maven Test
 
+![alt text](image-7.png)
 
+![alt text](image-8.png)
 
 Maven Package
 
+![alt text](image-9.png)
+
+![alt text](image-10.png)
 
 
-
-
-
-
-
-
-
-Task 2: Set up the Git repository and push the source code. Then, log in to Jenkins to create a CICD pipeline.
+# Task 2: Set up the Git repository and push the source code. Then, log in to Jenkins to create a CICD pipeline.
 
 Github Project URL: https://github.com/Emtwenty-Co/pgdproject_dipolimene.git
 
+![alt text](image-11.png)
 
+![alt text](image-12.png)
 
+Setup Jenkins - Installation guide documented here [Quick Installation of Jenkins on Ubuntu 22.04](https://dipolimene.medium.com/quick-installation-of-jenkins-on-ubuntu-22-04-linux-distribution-9f0a48412525)
+
+![alt text](image-13.png)
