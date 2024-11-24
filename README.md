@@ -134,3 +134,33 @@ Setup Jenkins - Installation guide documented here [Quick Installation of Jenkin
 
 Execute the CI/CD pipeline to execute the jobs created above
 
+![alt text](image-4.png)
+
+![alt text](image-5.png)
+
+![alt text](image-6.png)
+
+![alt text](image-7.png)
+
+![alt text](image-8.png)
+
+![alt text](image-9.png)
+
+
+
+
+
+# Task 3: Write a Docker file. Create an Image and container on the Docker host. Integrate docker host with Jenkins. Create CI/CD job on Jenkins to build and deploy on a container.
+
+Create CI/CD job on Jenkins to build and deploy on a container.
+
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
