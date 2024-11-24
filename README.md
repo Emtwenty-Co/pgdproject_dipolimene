@@ -51,9 +51,9 @@ Maven Executable Path on Local: /Users/dipolimene/Downloads/apache-maven-3.9.9/b
 
 Clone to Local
 
-![alt text](image.png)
+![alt text](Snapshots/image.png)
 
-![alt text](image-1.png)
+![alt text](Snapshots/image-1.png)
 
 ![alt text](image-2.png)
 
