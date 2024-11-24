@@ -144,6 +144,7 @@ Execute the CI/CD pipeline to execute the jobs created above
 
 ![alt text](image-8.png)
 
+Poll SCM
 ![alt text](image-9.png)
 
 
