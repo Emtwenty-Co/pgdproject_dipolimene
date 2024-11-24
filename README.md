@@ -55,70 +55,70 @@ Clone to Local
 
 ![alt text](Snapshots/image-1.png)
 
-![alt text](image-2.png)
+![alt text](Snapshots/image-2.png)
 
-![alt text](image-3.png)
+![alt text](Snapshots/image-3.png)
 
-![alt text](image-4.png)
+![alt text](Snapshots/image-4.png)
 
 Maven Compile
 
-![alt text](image-5.png)
+![alt text](Snapshots/image-5.png)
 
-![alt text](image-6.png)
+![alt text](Snapshots/image-6.png)
 
 Maven Test
 
-![alt text](image-7.png)
+![alt text](Snapshots/image-7.png)
 
-![alt text](image-8.png)
+![alt text](Snapshots/image-8.png)
 
 Maven Package
 
-![alt text](image-9.png)
+![alt text](Snapshots/image-9.png)
 
-![alt text](image-10.png)
+![alt text](Snapshots/image-10.png)
 
 
 # Task 2: Set up the Git repository and push the source code. Then, log in to Jenkins to create a CICD pipeline.
 
 Github Project URL: https://github.com/Emtwenty-Co/pgdproject_dipolimene.git
 
-![alt text](image-11.png)
+![alt text](Snapshots/image-11.png)
 
-![alt text](image-12.png)
+![alt text](Snapshots/image-12.png)
 
 Setup Jenkins - Installation guide documented here [Quick Installation of Jenkins on Ubuntu 22.04](https://dipolimene.medium.com/quick-installation-of-jenkins-on-ubuntu-22-04-linux-distribution-9f0a48412525)
 
-![alt text](image-13.png)
+![alt text](Snapshots/image-13.png)
 
 
-![alt text](image-14.png)
+![alt text](Snapshots/image-14.png)
 
-![alt text](image-15.png)
+![alt text](Snapshots/image-15.png)
 
-![alt text](image-16.png)
+![alt text](Snapshots/image-16.png)
 
-![alt text](image-17.png)
+![alt text](Snapshots/image-17.png)
 
-![alt text](image-18.png)
+![alt text](Snapshots/image-18.png)
 
-![alt text](image-19.png)
+![alt text](Snapshots/image-19.png)
 
-![alt text](image-20.png)
+![alt text](Snapshots/image-20.png)
 
-![alt text](image-21.png)
+![alt text](Snapshots/image-21.png)
 
-![alt text](image-22.png)
+![alt text](Snapshots/image-22.png)
 
-![alt text](image-23.png)
+![alt text](Snapshots/image-23.png)
 
-![alt text](image-24.png)
+![alt text](Snapshots/image-24.png)
 
-![alt text](image-25.png)
+![alt text](Snapshots/image-25.png)
 
-![alt text](image-27.png)
+![alt text](Snapshots/image-26.png)
 
-![alt text](image-26.png)
+![alt text](Snapshots/image-27.png)
 
-![alt text](image-28.png)
+![alt text](Snapshots/image-28.png)
