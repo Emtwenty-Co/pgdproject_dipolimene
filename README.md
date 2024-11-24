@@ -51,7 +51,7 @@ Maven Executable Path on Local: /Users/dipolimene/Downloads/apache-maven-3.9.9/b
 
 Clone to Local
 
-![alt text](Snapshots/image.png)
+![alt text](Snapshots/image-0.png)
 
 ![alt text](Snapshots/image-1.png)
 
@@ -122,4 +122,15 @@ Setup Jenkins - Installation guide documented here [Quick Installation of Jenkin
 ![alt text](Snapshots/image-27.png)
 
 ![alt text](Snapshots/image-28.png)
+
+![alt text](Snapshots/image-29.png)
+
+![alt text](Snapshots/image-30.png)
+
+![alt text](Snapshots/image-31.png)
+
+![alt text](Snapshots/image-32.png)
+
+
+Execute the CI/CD pipeline to execute the jobs created above
 
