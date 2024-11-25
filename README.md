@@ -134,18 +134,18 @@ Setup Jenkins - Installation guide documented here [Quick Installation of Jenkin
 
 Execute the CI/CD pipeline to execute the jobs created above
 
-![alt text](image-4.png)
+![alt text](Snapshots/image-33.png)
 
-![alt text](image-5.png)
+![alt text](Snapshots/image-34.png)
 
-![alt text](image-6.png)
+![alt text](Snapshots/image-35.png)
 
-![alt text](image-7.png)
+![alt text](Snapshots/image-36.png)
 
-![alt text](image-8.png)
+![alt text](Snapshots/image-37.png)
 
 Poll SCM
-![alt text](image-9.png)
+![alt text](Snapshots/image-38.png)
 
 
 
@@ -156,12 +156,17 @@ Poll SCM
 Create CI/CD job on Jenkins to build and deploy on a container.
 
 
-![alt text](image.png)
+![alt text](Snapshots/image-39.png)
 
-![alt text](image-1.png)
+![alt text](Snapshots/image-40.png)
 
 
 
-![alt text](image-2.png)
+![alt text](Snapshots/image-41.png)
 
-![alt text](image-3.png)
+![alt text](Snapshots/image-42.png)
+
+![alt text](Snapshots/image-43.png)
+
+
+Write a Docker file. Create an Image and container on the Docker host
