@@ -170,3 +170,8 @@ Create CI/CD job on Jenkins to build and deploy on a container.
 
 
 Write a Docker file. Create an Image and container on the Docker host
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
